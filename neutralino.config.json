@@ -23,7 +23,7 @@
     "binaryName": "neutralinojs-nuxt3",
     "resourcesPath": "/nuxt3-src/dist/",
     "extensionsPath": "/extensions/",
-    "clientLibrary": "/nuxt3-src/.output/public/neutralino.js",
+    "clientLibrary": "/www/neutralino.js",
     "binaryVersion": "4.6.0",
     "clientVersion": "3.5.0"
   }

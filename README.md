@@ -3,9 +3,9 @@
 ```
 npm install -g @neutralinojs/neu
 git clone https://github.com/ktkr3d/neutralinojs-nuxt3.git
-cd neutralinojs-vue/nuxt3-src
+cd neutralinojs-nuxt3/nuxt3-src
 npm install
-npm generate
+npm run generate
 cd ..
 neu update
 neu run
