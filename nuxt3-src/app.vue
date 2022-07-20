@@ -42,6 +42,7 @@
         </v-list>
         <template v-slot:append>
           <v-btn
+            class="mx-auto"
             variant="text"
             icon="mdi-arrow-expand-horizontal"
             @click.stop="rail = !rail"
