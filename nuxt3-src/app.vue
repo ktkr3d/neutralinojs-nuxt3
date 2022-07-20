@@ -31,8 +31,8 @@
           ></v-list-item>
           <v-list-item
             prepend-icon="mdi-puzzle"
-            title="Extension"
-            value="extension"
+            title="Extensions"
+            value="extensions"
           ></v-list-item>
           <v-list-item
             prepend-icon="mdi-cog"
