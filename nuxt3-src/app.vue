@@ -6,6 +6,7 @@
         :rail="rail"
         theme="dark"
         permanent
+        expand-on-hover
         @click="rail = false"
       >
         <v-list density="compact" nav>
