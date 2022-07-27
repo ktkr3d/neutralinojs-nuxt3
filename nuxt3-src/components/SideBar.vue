@@ -21,5 +21,6 @@ const menuItems = [
   { title: "Timeline", value: "timeline", to: "/timeline", icon: "mdi-timeline" },
   { title: "Settings", value: "settings", to: "/settings", icon: "mdi-cog" },
   { title: "3D", value: "3d", to: "/three", icon: "mdi-rotate-3d" },
+  { title: 'MMD', value: 'MMD', href: '/mmd', icon: 'mdi-human-female-dance' },
 ];
 </script>
