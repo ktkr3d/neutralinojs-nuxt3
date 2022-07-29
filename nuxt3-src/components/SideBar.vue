@@ -22,5 +22,6 @@ const menuItems = [
   { title: "Settings", value: "settings", to: "/settings", icon: "mdi-cog" },
   { title: "3D", value: "3d", to: "/three", icon: "mdi-rotate-3d" },
   { title: 'MMD', value: 'MMD', to: '/mmd', icon: 'mdi-human-female-dance' },
+  { title: 'MMD (Audio)', value: 'MMD2', to: '/mmd2', icon: 'mdi-video-3d-variant' },
 ];
 </script>
